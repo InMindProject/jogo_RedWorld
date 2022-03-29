@@ -1,0 +1,1 @@
+Nesta pasta ficarão todas as informações a respeito do código do projeto.
