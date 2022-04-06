@@ -1,0 +1,9 @@
+Nesta reunião conversamos e o grupo viu que a ideia de utilizar o retroprojetor não seria viável
+para o usuário e o preço do equipamento não estava sendo acessível para os integrantes.
+
+Então, surgiu a ideia de fazer um jogo utilizando um óculos de realidade virtual que um integrante possui.
+Assim, já conversamos sobre a possibilidade de utilizar a plataforma "Unreal" para a criação do game.
+
+
+
+
