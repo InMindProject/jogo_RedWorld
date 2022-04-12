@@ -1,0 +1,21 @@
+Hoje tivemos uma reunião, via TEAMS, com o profissional da área que iria nos auxiliar na finalização dos slides para a apresentação da banca.
+
+De acordo com as dicas, mudamos algumas coisas com relação ao projeto:
+
+
+. Precisamos definir melhor o enredo do jogo. História e personagens; passo a passo do game.
+
+. Mudamos a plataforma que usaremos para a Unity, pois é mais intuitiva para a construção do game e há tutoriais e cursos gratuitos de como utilizá-la.
+
+. Repensar a questão de fazer o jogo em 3d, pois há pouco tempo para construir algo desta magnitude e não temos o conhecimento necessário ainda, então, de
+  acordo com o profissional, seria melhor se fizéssemos o jogo em 2d. (ponto que precisamos pensar muito bem)
+
+. Como iremos mudar o game de 3d para 2d, precisamos repensar sobre a utilização do óculos VR.
+  
+
+
+Integrantes presentes na reunião:
+
+. João Francisco
+. João Gabriel
+. Yasmin Vasconcelos 
